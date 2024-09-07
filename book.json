@@ -1,0 +1,8 @@
+{
+  "title": "Your GitBook Title",
+  "description": "A brief description of your GitBook",
+  "author": "Your Name",
+  "plugins": ["expandable-chapters", "copy-code-button"],
+  "pluginsConfig": {
+  }
+}
